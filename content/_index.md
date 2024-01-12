@@ -231,22 +231,22 @@ sections:
       columns: '2'
   - block: contact
     id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+    #content:
+      #title: Contact
+      #subtitle:
+      #text: |-
+        #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: jluo407@aucklanduni.ac.nz
+      phone: (+64) 022 304 6986
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 147 Nelson Street
+        city: Auckland
+        #region: AKL
+        postcode: '1010'
+        country: New Zealand
+        country_code: NZ
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
