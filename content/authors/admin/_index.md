@@ -94,7 +94,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JoshuaLuo3
     label: Follow me on Twitter
     display:
       header: true
@@ -103,10 +103,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Joshua-Luo407/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/joshua-luo-b69971257/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiajun Luo is a dedicated fourth-year student pursuing a degree in Computer Systems Engineering at the University of Auckland. With a robust foundation in technology and a fervent passion for innovation, he brings practical insights from his internship experience in airport Building Information Modeling (BIM) to comprehend real-world applications of computer systems engineering. Holding a Microsoft Office expert certificate underscores his proficiency in essential tools for efficient documentation and communication. Jiajun's technical repertoire includes expertise in diverse programming languages such as Python, C, Java, MATLAB, and more. This versatile skill set positions him as a dynamic and adaptable individual, ready to tackle challenges and contribute effectively to any technological endeavor.
 {style="text-align: justify;"}
